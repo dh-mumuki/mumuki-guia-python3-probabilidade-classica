@@ -1,0 +1,1 @@
+Ao jogar um dado de seis faces três vezes seguidas, qual é a probabilidade de você obter a face die_face **ao menos uma vez**?

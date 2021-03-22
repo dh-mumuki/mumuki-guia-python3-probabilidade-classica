@@ -1,0 +1,10 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+die_face: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  type: one_of
+  value:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
