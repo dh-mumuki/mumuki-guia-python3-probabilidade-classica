@@ -1,0 +1,6 @@
+--- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+coin_face: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  type: one_of
+  value:
+  - cara
+  - coroa
