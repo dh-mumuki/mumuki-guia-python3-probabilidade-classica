@@ -1,1 +1,1 @@
-Se a probabilidade de obter um pedido da firma _A_ é de 30% e a probabilidade de obter um pedido da firma B é de 40%, então a probabilidade de obter ao menos um pedido da firma A ou∩ da firma B é de:
+Se a probabilidade de obter um pedido da firma _A_ é de 30% e a probabilidade de obter um pedido da firma B é de 40%, então a probabilidade de obter ao menos um pedido da firma A ou da firma B é de:
