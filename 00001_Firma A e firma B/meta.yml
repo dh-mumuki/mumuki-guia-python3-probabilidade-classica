@@ -1,0 +1,23 @@
+---
+locale: pt
+tags: []
+layout: input_right
+editor: single_choice
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 70%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 12%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 10%
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Nenhuma das anteriores
+  checked: false
+name: Firma A e firma B

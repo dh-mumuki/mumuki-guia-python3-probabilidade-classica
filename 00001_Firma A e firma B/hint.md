@@ -1,0 +1,1 @@
+Note que _P(A ∩ B)_ pode ser diferente de zero.
